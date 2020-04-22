@@ -34,10 +34,10 @@
     <version>7.0.0</version>
 </dependency>
 <properties>
-    <sonar.projectKey>josenetop_MavemDemo</sonar.projectKey>
+    <sonar.projectKey>mavem_demo</sonar.projectKey>
     <sonar.organization>josenetop</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <sonar.login>35acb2116d36a90ae1ef6ab6e8a9880367ce86e0</sonar.login>
+    <sonar.host.url>localhost:9000</sonar.host.url>
+    <sonar.login>c6c6d69d1bc2d6b8231b77c9df319e9c56cc21f9</sonar.login>
 </properties>
     <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
 <dependency>
